@@ -1,0 +1,19 @@
+body {
+    overflow: inherit;
+      
+}
+
+#punkt{
+    position: absolute;
+    top: 10; 
+    left: 10;
+    width: 1600;
+    height: 1600;
+    background-color: #122736;
+       
+    
+}
+
+.slidecontainer {
+  width: 100%;
+}
